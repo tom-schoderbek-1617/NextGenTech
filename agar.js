@@ -1,4 +1,4 @@
-const playerSpeed = 150;
+const playerSpeed = 15;
 const magnetRange = 300;
 const magnetStrength = 15;
 const blobCount = 4000; // Count of pellets to pick up (These are locally rendered and created)
