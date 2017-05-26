@@ -4,7 +4,7 @@ const magnetStrength = 15;
 const blobCount = 4000; // Count of pellets to pick up (These are locally rendered and created)
 const worldSize = 12000; // World size
 const blobSize = 20; // Count of pellets to pick up (These are locally rendered and created)
-const startingSize = 1000; // Starting size of the player
+const startingSize = 10000; // Starting size of the player
 const worldBorder = worldSize + blobSize / 2; // World border
 const zoomScale = 64 * 0.6;
 
