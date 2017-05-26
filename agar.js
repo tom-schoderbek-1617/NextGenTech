@@ -6,7 +6,7 @@ const worldSize = 12000; // World size
 const blobSize = 20; // Count of pellets to pick up (These are locally rendered and created)
 const startingSize = 1000; // Starting size of the player
 const worldBorder = worldSize + blobSize / 2; // World border
-const zoomScale = startingSize * 0.6;
+const zoomScale = 64 * 0.6;
 
 let player;
 let zoom = 10;
